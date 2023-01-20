@@ -1,0 +1,11 @@
+{
+  "name": "lunar/plugin-easy-digital-downloads",
+  "description": "Lunar edd gateway development",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ionut Calara",
+      "email": "ionut.calara@gmail.com"
+    }
+  ]
+}

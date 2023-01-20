@@ -1,0 +1,253 @@
+#: edd-lunar.php:15
+msgid ""
+"Your version of PHP is below the minimum version of PHP required by Easy "
+"Digital Downloads - Lunar Payment Gateway. Please contact your host and "
+"request that your version be upgraded to 5.3.3 or later."
+msgstr ""
+
+#: edd-lunar.php:75 lunar.php:181 lunar.php:182
+msgid "Credit Card"
+msgstr ""
+
+#: edd-lunar.php:127
+msgid "Credit Card Info"
+msgstr ""
+
+#: edd-lunar.php:135
+msgid "This is a secure SSL encrypted payment."
+msgstr ""
+
+#: edd-lunar.php:140
+msgid "Card Number"
+msgstr ""
+
+#: edd-lunar.php:144
+msgid "The (typically) 16 digits on the front of your credit card."
+msgstr ""
+
+#: edd-lunar.php:149
+msgid "CVC"
+msgstr ""
+
+#: edd-lunar.php:152
+msgid "The 3 digit (back) or 4 digit (front) value on your card."
+msgstr ""
+
+#: edd-lunar.php:158
+msgid "Expiration (MM/YY)"
+msgstr ""
+
+#: edd-lunar.php:161
+msgid "The date your credit card expires, typically on the front of the card."
+msgstr ""
+
+#: lunar.php:19
+msgid "Missing Lunar token. Please contact support."
+msgstr ""
+
+#: lunar.php:20
+msgid "Missing Lunar Token"
+msgstr ""
+
+#: lunar.php:20
+msgid ""
+"A Lunar token failed to be generated. Please check Lunar logs for more "
+"information"
+msgstr ""
+
+#: lunar.php:56
+msgid "Fetching Transaction Failed"
+msgstr ""
+
+#: lunar.php:56
+#, php-format
+msgid ""
+"Fetching transaction failed while processing a preapproved only payment. \n"
+"Payment Data: %s \n"
+"Error: %s"
+msgstr ""
+
+#: lunar.php:75
+msgid "Capturing Transaction Failed"
+msgstr ""
+
+#: lunar.php:75
+#, php-format
+msgid ""
+"Capturing transaction failed while processing a payment.\n"
+"Payment Data: %s \n"
+"Error: %s"
+msgstr ""
+
+#: lunar.php:81
+msgid ""
+"Your payment could not be recorded, please contact the site administrator."
+msgstr ""
+
+#: lunar.php:83
+msgid "Card Processing Error"
+msgstr ""
+
+#: lunar.php:101
+msgid "Lunar"
+msgstr ""
+
+#: lunar.php:117
+msgid "Lunar Settings"
+msgstr ""
+
+#: lunar.php:118
+msgid "Configure the Lunar settings"
+msgstr ""
+
+#: lunar.php:123
+msgid "Test mode Public Key"
+msgstr ""
+
+#: lunar.php:124 lunar.php:131 lunar.php:138 lunar.php:145
+msgid "Get it from your Lunar dashboard"
+msgstr ""
+
+#: lunar.php:130
+msgid "Test mode App Key"
+msgstr ""
+
+#: lunar.php:137
+msgid "Public Key"
+msgstr ""
+
+#: lunar.php:144
+msgid "App Key"
+msgstr ""
+
+#: lunar.php:151
+msgid "Preapprove Only?"
+msgstr ""
+
+#: lunar.php:152
+msgid ""
+"Check this if you would like to preapprove payments but not charge until a "
+"later date."
+msgstr ""
+
+#: lunar.php:157
+msgid "Lunar Modal Options"
+msgstr ""
+
+#: lunar.php:162
+msgid "Disable Lunar Popup"
+msgstr ""
+
+#: lunar.php:163
+msgid ""
+"Check this if you would like to disable the Lunar popup window on the main checkout screen and use the embedded form."
+msgstr ""
+
+#: lunar.php:168
+msgid "Payment popup title"
+msgstr ""
+
+#: lunar.php:169
+msgid "The text shown in the popup where the customer inserts the card details"
+msgstr ""
+
+#: lunar.php:177
+msgid "Payment method title"
+msgstr ""
+
+#: lunar.php:197
+msgid "Preapproved"
+msgstr ""
+
+#: lunar.php:198 lunar.php:230
+msgid "Cancelled"
+msgstr ""
+
+#: lunar.php:212
+msgid "Preapproval"
+msgstr ""
+
+#: lunar.php:229
+msgid "Preapproval Pending"
+msgstr ""
+
+#: lunar.php:261
+msgid "Process Payment"
+msgstr ""
+
+#: lunar.php:262
+msgid "Cancel Preapproval"
+msgstr ""
+
+#: lunar.php:326
+msgid ""
+"The order was cancelled, but the transaction could not be voided in Lunar."
+msgstr ""
+
+#: lunar.php:327
+msgid "Transaction Void Failed"
+msgstr ""
+
+#: lunar.php:327 lunar.php:374
+#, php-format
+msgid ""
+"\n"
+"Error: %s"
+msgstr ""
+
+#: lunar.php:330
+msgid "Preapproval cancelled"
+msgstr ""
+
+#: lunar.php:366
+msgid "Captured Preapproved Transaction Successful"
+msgstr ""
+
+#: lunar.php:373 lunar.php:374
+msgid "Capturing Preapproved Transaction Failed"
+msgstr ""
+
+#: lunar.php:387
+msgid "The preapproved payment was successfully charged."
+msgstr ""
+
+#: lunar.php:390
+msgid ""
+"The preapproved payment failed to be charged. View order details for further "
+"details."
+msgstr ""
+
+#: lunar.php:393
+msgid "The preapproved payment was successfully cancelled."
+msgstr ""
+
+#: lunar.php:428
+msgid "Next"
+msgstr ""
+
+#: lunar.php:429
+msgid ""
+"The Lunar Public Key is missing. Insert it in Settings -> Payment Gateways "
+"-> Lunar"
+msgstr ""
+
+#: lunar.php:430
+msgid "The following error occurred: "
+msgstr ""
+
+#: lunar.php:471
+msgid "Refund Charge in Lunar"
+msgstr ""
+
+#: lunar.php:524
+msgid "Transaction refunded in Lunar"
+msgstr ""
+
+#: lunar.php:526 lunar.php:527
+msgid "Refunding transaction in Lunar failed"
+msgstr ""
+
+#: lunar.php:527
+#, php-format
+msgid "Error: %s"
+msgstr ""
