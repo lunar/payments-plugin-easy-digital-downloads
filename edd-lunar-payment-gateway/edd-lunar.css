@@ -1,0 +1,22 @@
+
+div.tds-iframe {
+    position: relative;
+    border: 1em solid #fff;
+    background: #fff;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+div.tds-iframe iframe {
+    border: none;
+    width: 1px;
+    min-width: 100%;
+    max-width: 100%;
+    height: 39em;
+    overflow: hidden
+}
+
+.edd_error {
+    border: 1px solid red;
+    background-color: #edcaca;
+}
