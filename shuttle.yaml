@@ -3,3 +3,4 @@ plan: false
 vars:
   service: payments-plugin-easy-digital-downloads
   squad: juno
+  domain: webshop-payments
